@@ -1,0 +1,13 @@
+int a = 5;
+
+a      = variable
+5      = value
+0x1002 = address
+
+& = address of operator
+* = value at the address
+
+int *ptr;      // pointer declaration
+
+&a = 0x1002   // addresss of a
+*a = 5        // value of a

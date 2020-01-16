@@ -1,0 +1,10 @@
+datatype arrayname[size];
+
+int subject[5];
+
+subject[0], subject[1], subject[2], subject[3], subject[4]
+
+// array assign
+
+subject[0] = 20;               
+subject[5] = {10,20,30,40,50}

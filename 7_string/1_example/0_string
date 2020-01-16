@@ -1,0 +1,9 @@
+char string_name[size];
+
+char hello[12] = "hello world";
+
+string size is (n-1), n is '\0'
+
+stdio.h  -> puts() and gets
+string.h -> str..()
+ctype.h  -> is..()

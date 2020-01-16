@@ -1,0 +1,15 @@
+struct structure_name {
+    datatype member1;
+    datatype member2;
+};
+
+struct Book {
+    char title[20];
+    char author[20];
+    int pages;
+    float price;
+};
+
+Book b;
+Book b1, b2;
+Book b[10];
